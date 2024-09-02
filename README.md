@@ -1,4 +1,4 @@
-PatriotBit Secure Compartmentalized Information Center 1.6.2024-NCSWIC
+PatriotBit Secure Compartmentalized Information Facility 1.6.2024-NCSWIC
 ===============================
 
 Copyright (c) 2016-2025 We The People.
@@ -14,6 +14,7 @@ System DOES NOT Include:
 -----------------
 
 * SUPPORT, ASSISTANCE, WARRANTY OF ANY KIND WHAT-SO-EVER
+* Discord, Chat, or any "official" communique
 * Advertising, shills, moon-sayers, or developers
 * Promise of ANY future value
 * Care about your feelings
